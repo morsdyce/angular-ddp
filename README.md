@@ -1,0 +1,1 @@
+DDP Client for AngularJS
