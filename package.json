@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/nirkaufman/angular-ddp",
   "dependencies": {
-    "angular": "1.4.1",
     "ddp.js": "0.4.5"
   },
   "devDependencies": {
