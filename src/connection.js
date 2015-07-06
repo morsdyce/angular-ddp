@@ -1,6 +1,6 @@
 import DDP from 'ddp.js';
 
-export class Connection {
+export default class Connection {
 
   constructor(config) {
     this._instance    = new DDP(config);
