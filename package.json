@@ -25,7 +25,11 @@
   },
   "homepage": "https://github.com/nirkaufman/angular-ddp",
   "dependencies": {
-    "ddp.js": "1.0.0"
+    "ddp.js": "1.0.0",
+    "ejson": "^2.0.1",
+    "minimongo": "^3.3.0",
+    "object-assign": "^3.0.0",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
     "babel-core": "5.5.8",
